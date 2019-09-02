@@ -25,4 +25,5 @@ Tensorflow.js is a Javascript implementation of the popular Tensorflow library u
 * Sad
 * Angry
 * Serious
+
 By using a webcam, one can add samples to the model, which will predict in real time the label of the frame captured by the camera.
