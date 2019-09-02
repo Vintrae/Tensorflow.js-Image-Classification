@@ -1,4 +1,4 @@
-# Tensorflow.js-Image-Classification
+# Tensorflow.js Image Classification
 Implementing a K-NN classifier using Tensorflow.js
 
 NOTE: This is the result of following the Tensorflow tutorial available at 
